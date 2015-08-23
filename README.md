@@ -20,3 +20,6 @@ You are allowed to delegate to a MSequentialSorter or a ISequentialSorter for th
 Implement the MParallelSorter1 class so that it uses merge sort and the forkJoin framework to sort the data.
 
 You are allowed to delegate to a MSequentialSorter or a ISequentialSorter for the cases shorter than a threshold of 20 elements.
+
+## Results:
+All tests passed.
